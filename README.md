@@ -20,4 +20,10 @@ and thrmocoupler to get the temp at the focal point
 test and design links if u would like to see
 
 https://youtube.com/channel/UCOz9aMoAQEwi2Hz8ujPHkRg
-https://grabcad.com/library/parabolic-solar-oven-1
+https://grabcad.com/library/parabolic-solar-collector-oven-1
+
+
+for contact
+
+code : abdalrhman882000@gmail.com
+design : e.mekkawe99@gmail.com

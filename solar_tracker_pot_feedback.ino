@@ -153,9 +153,9 @@ Serial.print(F("The sun was at an elevation of "));
   //change the print to the mas read posible 
   
   Serial.print("diff elev = "); 
-  Serial.println(elev-angle_y);
+  Serial.println(elevation-angle_y);
   Serial.print("diff azm = "); 
-  Serial.println(azm-angle_x);
+  Serial.println(azmith-angle_x);
 
   solar_stepper_control(azmith);  //function to control azmith
   solar_DC_control(elevation);  //function to control elevation

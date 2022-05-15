@@ -25,5 +25,5 @@ https://grabcad.com/library/parabolic-solar-collector-oven-1
 
 for contact
 CEO : 	ahmedgamal88eg@gmail.com
-code : abdalrhman882000@gmail.com
+code : abdalrhman882000@gmail.com, m.7hassan2020@gmail.com 
 design : e.mekkawe99@gmail.com
